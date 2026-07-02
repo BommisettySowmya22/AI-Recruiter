@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0069155,1,60.56,"Advanced Skills: MLOps, GANs, MLflow; Strong GitHub Activity"
+CAND_0082489,2,58.3,"Advanced Skills: Haystack, Weaviate, MLflow, Weights & Biases, LangChain; Strong GitHub Activity; High Interview Completion"
+CAND_0044664,3,57.83,"Advanced Skills: YOLO, Sentence Transformers, BentoML; Strong GitHub Activity; Complete Profile; High Interview Completion"
+CAND_0062753,4,57.7,"Advanced Skills: Feature Engineering, YOLO, Deep Learning; Strong GitHub Activity"
+CAND_0097256,5,57.25,"Advanced Skills: Data Science, Haystack, Kubeflow, Milvus, Machine Learning; Strong GitHub Activity; High Interview Completion"
+CAND_0089532,6,57.17,"Advanced Skills: Haystack, Forecasting, GANs; Strong GitHub Activity"
+CAND_0096443,7,57.02,"Advanced Skills: Data Science, GANs; Strong GitHub Activity; Complete Profile"
+CAND_0078273,8,56.45,"Advanced Skills: Feature Engineering, BentoML, ASR, Kubeflow, Haystack; Strong GitHub Activity; High Interview Completion"
+CAND_0024389,9,55.9,"Advanced Skills: MLflow, Feature Engineering, TTS, Diffusion Models, Data Science; Strong GitHub Activity"
+CAND_0017298,10,54.41,Advanced Skills: Reinforcement Learning; Strong GitHub Activity; High Interview Completion
+CAND_0027695,11,54.14,"Advanced Skills: ASR, YOLO; Strong GitHub Activity; Complete Profile; High Interview Completion"
+CAND_0001423,12,53.15,"Advanced Skills: Machine Learning, Time Series, YOLO, Feature Engineering, FAISS; Strong GitHub Activity"
+CAND_0087373,13,53.05,"Advanced Skills: Data Science, Feature Engineering, MLOps, scikit-learn, QLoRA; Strong GitHub Activity; High Interview Completion"
+CAND_0001939,14,52.87,Advanced Skills: Kubeflow; Strong GitHub Activity
+CAND_0016458,15,52.74,"Advanced Skills: BM25, Learning to Rank; Strong GitHub Activity"
+CAND_0099461,16,52.38,"Advanced Skills: FAISS, Forecasting, Weights & Biases, PyTorch, Machine Learning; Strong GitHub Activity; Complete Profile; High Interview Completion"
+CAND_0043510,17,52.12,"Advanced Skills: MLflow, Vector Search, scikit-learn; Strong GitHub Activity; High Interview Completion"
+CAND_0067609,18,51.62,"Advanced Skills: BentoML, Weights & Biases, LoRA, Kubeflow, Python; Strong GitHub Activity; Complete Profile"
+CAND_0044738,19,51.59,"Advanced Skills: GANs, Reinforcement Learning, Data Science; Strong GitHub Activity"
+CAND_0040774,20,50.41,Strong GitHub Activity; High Interview Completion
+CAND_0071760,21,49.94,"Advanced Skills: MLflow, Recommendation Systems, Fine-tuning LLMs, Prompt Engineering, Hugging Face Transformers; Strong GitHub Activity; High Interview Completion"
+CAND_0067979,22,49.48,"Advanced Skills: Vector Search, Information Retrieval, RAG, Hugging Face Transformers, LangChain; Strong GitHub Activity"
+CAND_0039773,23,48.94,"Advanced Skills: LLMs, Deep Learning; Strong GitHub Activity; Complete Profile"
+CAND_0091780,24,47.78,Advanced Skills: Feature Engineering; Strong GitHub Activity; Complete Profile
+CAND_0032703,25,47.26,Advanced Skills: GANs; Strong GitHub Activity; High Interview Completion
+CAND_0046362,26,46.46,"Advanced Skills: Reinforcement Learning, PyTorch, Pinecone; Strong GitHub Activity"
+CAND_0089713,27,45.87,"Advanced Skills: YOLO, LangChain, Prompt Engineering, Embeddings, Vector Search; Strong GitHub Activity"
+CAND_0041108,28,45.74,Advanced Skills: BentoML; Strong GitHub Activity
+CAND_0014601,29,45.65,"Advanced Skills: ASR, LLMs, TTS, Prompt Engineering, Haystack; Strong GitHub Activity; Complete Profile"
+CAND_0050005,30,44.78,"Advanced Skills: Weights & Biases, LoRA, Semantic Search; Strong GitHub Activity; High Interview Completion"
+CAND_0060498,31,44.61,Advanced Skills: GANs; Strong GitHub Activity
+CAND_0065438,32,44.49,"Advanced Skills: LoRA, Forecasting, Computer Vision, Sentence Transformers; Complete Profile; High Interview Completion"
+CAND_0064445,33,44.11,"Advanced Skills: Weights & Biases, MLOps, BM25; Strong GitHub Activity; Complete Profile"
+CAND_0044880,34,44.09,"Advanced Skills: RAG, LangChain, Embeddings, LLMs, Semantic Search; Strong GitHub Activity"
+CAND_0088897,35,44.04,"Advanced Skills: Weights & Biases, Reinforcement Learning; High Interview Completion"
+CAND_0029561,36,44.0,"Advanced Skills: Computer Vision, Deep Learning, Forecasting, Data Science; Strong GitHub Activity; High Interview Completion"
+CAND_0012935,37,43.52,Advanced Skills: MLOps
+CAND_0029822,38,43.22,"Advanced Skills: MLOps, Qdrant, Feature Engineering"
+CAND_0005344,39,43.1,"Advanced Skills: TTS, NLP, Reinforcement Learning; Strong GitHub Activity; Complete Profile"
+CAND_0098168,40,43.03,"Advanced Skills: Feature Engineering, Vector Search, LangChain, Pinecone, Sentence Transformers; High Interview Completion"
+CAND_0075541,41,42.97,"Advanced Skills: ASR, Semantic Search; High Interview Completion"
+CAND_0011264,42,42.54,"Advanced Skills: Forecasting, TTS; Complete Profile"
+CAND_0077757,43,42.38,"Advanced Skills: TTS, YOLO"
+CAND_0065917,44,42.35,"Advanced Skills: LLMs, TensorFlow, GANs, BentoML, Learning to Rank; High Interview Completion"
+CAND_0005285,45,42.26,Advanced Skills: LlamaIndex
+CAND_0004300,46,42.18,"Advanced Skills: GANs, Data Science, pgvector"
+CAND_0038631,47,42.06,"Advanced Skills: Data Science, MLflow, NLP, scikit-learn, ASR; High Interview Completion"
+CAND_0036788,48,41.97,"Advanced Skills: Prompt Engineering, Vector Search, LLMs, Sentence Transformers, Embeddings"
+CAND_0054040,49,41.62,Advanced Skills: Data Science; High Interview Completion
+CAND_0098810,50,41.6,"Advanced Skills: Haystack, Reinforcement Learning, Time Series, Kubeflow; High Interview Completion"
+CAND_0013298,51,41.5,"Advanced Skills: Vector Search, MLflow; High Interview Completion"
+CAND_0091175,52,41.36,"Advanced Skills: Embeddings, FAISS, Prompt Engineering, Information Retrieval; Complete Profile; High Interview Completion"
+CAND_0085442,53,41.32,"Advanced Skills: Vector Search, GANs, YOLO"
+CAND_0028643,54,41.17,Advanced Skills: GANs
+CAND_0085085,55,41.14,
+CAND_0000972,56,40.98,Advanced Skills: TTS
+CAND_0089098,57,40.94,"Advanced Skills: TTS, Semantic Search, Hugging Face Transformers, RAG, LangChain"
+CAND_0009425,58,40.92,"Advanced Skills: Embeddings, Pinecone, Semantic Search, Prompt Engineering, Information Retrieval"
+CAND_0089529,59,40.91,"Advanced Skills: Speech Recognition, LangChain, LLMs, Pinecone, Embeddings; High Interview Completion"
+CAND_0086080,60,40.87,"Advanced Skills: FAISS, Semantic Search, LangChain, Sentence Transformers, LLMs"
+CAND_0041556,61,40.57,"Advanced Skills: ASR, Feature Engineering, Computer Vision; Complete Profile; High Interview Completion"
+CAND_0065827,62,40.57,
+CAND_0026477,63,40.43,"Advanced Skills: Data Science, GANs"
+CAND_0025976,64,40.42,"Advanced Skills: ASR, Semantic Search, Reinforcement Learning, Elasticsearch; High Interview Completion"
+CAND_0071819,65,40.21,"Advanced Skills: Sentence Transformers, MLflow, NLP; High Interview Completion"
+CAND_0081740,66,39.98,"Advanced Skills: Feature Engineering, Speech Recognition, Vector Search"
+CAND_0081398,67,39.79,Advanced Skills: Computer Vision
+CAND_0024261,68,39.37,"Advanced Skills: Haystack, Kubeflow, Speech Recognition, BentoML, Pinecone; High Interview Completion"
+CAND_0015823,69,39.24,"Advanced Skills: Vector Search, Fine-tuning LLMs, LLMs, Recommendation Systems, Semantic Search; High Interview Completion"
+CAND_0077036,70,39.13,
+CAND_0074662,71,38.95,Advanced Skills: GANs
+CAND_0003189,72,38.87,"Advanced Skills: MLOps, FAISS, RAG, Pinecone, Vector Search; High Interview Completion"
+CAND_0048998,73,38.5,Advanced Skills: Reinforcement Learning; High Interview Completion
+CAND_0046327,74,38.29,Advanced Skills: Deep Learning
+CAND_0066938,75,38.28,Advanced Skills: Learning to Rank
+CAND_0086642,76,38.24,"Advanced Skills: ASR, Reinforcement Learning; High Interview Completion"
+CAND_0020883,77,38.21,Advanced Skills: Recommendation Systems; High Interview Completion
+CAND_0059182,78,38.16,"Advanced Skills: MLflow, Information Retrieval, Vector Search, RAG, Pinecone"
+CAND_0015039,79,38.0,"Advanced Skills: TensorFlow, Hugging Face Transformers; High Interview Completion"
+CAND_0054916,80,37.76,"Advanced Skills: Semantic Search, Pinecone, Fine-tuning LLMs, Hugging Face Transformers, Information Retrieval; Complete Profile"
+CAND_0057616,81,37.36,"Advanced Skills: RAG, Information Retrieval, Hugging Face Transformers, Semantic Search, Embeddings"
+CAND_0086969,82,37.29,"Advanced Skills: GANs, Prompt Engineering, Recommendation Systems, RAG, Hugging Face Transformers"
+CAND_0099756,83,37.24,"Advanced Skills: Reinforcement Learning, Embeddings, Fine-tuning LLMs, Semantic Search, Pinecone"
+CAND_0073632,84,37.13,"Advanced Skills: Weights & Biases, Vector Search, RAG, Pinecone, LLMs"
+CAND_0088690,85,36.79,"Advanced Skills: CNN, Weights & Biases"
+CAND_0042679,86,36.42,"Advanced Skills: Forecasting, LLMs, Pinecone, Vector Search, Hugging Face Transformers; High Interview Completion"
+CAND_0096474,87,36.28,"Advanced Skills: Hugging Face Transformers, Information Retrieval, Semantic Search, Prompt Engineering, LangChain"
+CAND_0036151,88,36.1,
+CAND_0093470,89,36.08,Advanced Skills: Reinforcement Learning; Complete Profile; High Interview Completion
+CAND_0089417,90,35.89,
+CAND_0062800,91,35.49,High Interview Completion
+CAND_0082129,92,35.39,Advanced Skills: GANs
+CAND_0095210,93,35.27,
+CAND_0085313,94,35.2,
+CAND_0014728,95,34.08,Advanced Skills: Feature Engineering; High Interview Completion
+CAND_0092186,96,33.94,Advanced Skills: Feature Engineering
+CAND_0032523,97,32.49,High Interview Completion
+CAND_0029427,98,32.2,
+CAND_0013660,99,30.18,
+CAND_0093402,100,29.53,
